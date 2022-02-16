@@ -1,6 +1,7 @@
 body {
     background: #ffffff;
-    font-family: 'Nunito-Black-unhinted.ttf'
+    font-family: 'Nunito-Black-unhinted.ttf';
+    padding: 0 0 20px 0;
 }
 
 .header {
